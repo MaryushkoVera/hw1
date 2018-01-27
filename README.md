@@ -3,7 +3,7 @@
     2. Мне 18 лет. 
     3.     4. Я учусь в НИУ ВШЭ на образовательной программе "Иностранные языки и межкультурная коммуникация" (https://www.hse.ru/ba/lang/) на 1 курсе.
     4. Я из города Рязань 
-    ![](http://s3-eu-central-1.amazonaws.com/xn--80aa0aqccl2b9d/uploads/2015/10/196-768x453.jpg)
+![](http://s3-eu-central-1.amazonaws.com/xn--80aa0aqccl2b9d/uploads/2015/10/196-768x453.jpg)
 ## *Мои увлечения* 
     1. Теннис
     2. Танцы
